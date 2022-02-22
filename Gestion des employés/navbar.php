@@ -23,7 +23,7 @@
                 <div class="collapse navbar-collapse" id="mainmenu">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a href="index.php" class="nav-link">Liste des employées</a></li>
-                        <li class="nav-item"><a href="#search.php" class="nav-link">Rechercher un employé</a></li>
+                        <li class="nav-item"><a href="search.php" class="nav-link">Rechercher un employé</a></li>
                         <li class="nav-item"><a href="add.php" class="nav-link">Ajouter un employé</a></li>
                     </ul>
                 </div> 

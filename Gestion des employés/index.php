@@ -72,7 +72,7 @@
                     $id = $_REQUEST["delete"];
                     $conn->query("DELETE FROM `employés` WHERE Matricule='$id'");
                     
-                        header('location:index.php');
+                        header('location:index.php');                       
                     }
                 
             ?>
